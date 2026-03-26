@@ -8,9 +8,9 @@
     "build": "vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist",
-    "lint": "tsc --noEmit"
+    "lint": "tsc --noEmit",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
     "homepage": "https://arijit-ai-coder.github.io/Aloka-Digital-Studio"
   },
   "dependencies": {
