@@ -25,8 +25,8 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4">Contact</h4>
             <ul className="space-y-2">
-              <li><a href="mailto:hello@alokadigital.com" className="hover:text-white transition-colors">hello@alokadigital.com</a></li>
-              <li>New York, NY (Global Remote)</li>
+              <li><a href="mailto:hello@alokadigital.com" className="hover:text-white transition-colors">alokadigitalstudio@gmail.com</a></li>
+              <li>Singur, Hooghly, Westbengal, India (Global Remote)</li>
             </ul>
             <div className="flex space-x-4 mt-6">
               {/* Social Icons Placeholders */}
